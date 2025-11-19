@@ -17,6 +17,16 @@ Description of the project [Git Documentation](https://git-scm.com/doc)
 
 ### Features
 
+### Features
+
+| Feature        | Description                                           | Status       |
+|----------------|-------------------------------------------------------|-------------|
+| Character Customization | Permet als jugadors personalitzar els seus personatges amb diferents aparences, equips i habilitats. | In Progress |
+| Procedural Worlds | Genera mons únics amb biomes variats i estructures dinàmiques cada vegada que comences un nou joc. | Completed |
+| Multiplayer Quests | Mode cooperatiu on els jugadors poden unir-se i completar missions junts. | Planned |
+
+
+
 ### Installation
 
 ### Usage
