@@ -1,0 +1,90 @@
+commit 01733efd3714196a6089c3e3a320eddfeed24967
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 09:37:04 2025 +0100
+
+    Merge add-license branch into main (el anterior era license  con texto)
+
+ LICENSE.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 51bfa2aab6d0c5a21a431713ab61e721888baba4
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 09:35:00 2025 +0100
+
+    Add MIT License
+
+ LICENSE.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5a31acb14bdff77305c0fef14f40b5792059bb37
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 09:30:52 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 18 ++++++++++++++++--
+ 1 file changed, 16 insertions(+), 2 deletions(-)
+
+commit c27aad1380cdd2ff29602e364a190d6892289845
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 09:18:07 2025 +0100
+
+    Add feature lsit table to README
+
+ README.md | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+commit 51f0f6b6661865bb59d9e79b69420ea69ac9b0eb
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 09:07:21 2025 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 180037 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 72db2123e179ce236cec71f8cf12198dd7325367
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 08:58:38 2025 +0100
+
+    Add sections to README (lo habia hecho antes sin querer)
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f23dfee876450d2bf0a42081241b35c9b1b85ee6
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 08:56:07 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 12 ++++++++++++
+ 1 file changed, 12 insertions(+)
+
+commit a9b006f6c138ffbdbc67db34e1207733fc31646b
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 08:44:04 2025 +0100
+
+    Add Table of Contents to README with MARKDOWN
+
+ README.md | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit f0673c8c44d6e2a25b6849af9b07ef2548b07334
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 08:39:27 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 15c4b2d50634f87e9da67e04dd008370c0f5e219
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 19 08:29:08 2025 +0100
+
+    Initial commit with .gitignre
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
