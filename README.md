@@ -13,6 +13,8 @@ Description of the project [Git Documentation](https://git-scm.com/doc)
 
 ### Introduction
 
+![Project Logo](images/logo.png)
+
 ### Features
 
 ### Installation
