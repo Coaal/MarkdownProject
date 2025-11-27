@@ -1,0 +1,71 @@
+commit 57419d5a3ed05b523e3cb549c9b799862f212597
+Merge: 21834ac 16e91d2
+Author: Coaal (Alfredo) <120006389+Coaal@users.noreply.github.com>
+Date:   Wed Nov 26 15:28:02 2025 +0100
+
+    Merge pull request #2 from Coaal/feature/1-contribution-guidelines
+    
+    Add contrubuting.md Resolves #1
+
+commit 16e91d243a3e05d0badc06b649cf3fbe1878dd9d
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 15:20:47 2025 +0100
+
+    Add contrubuting.md
+
+ CONTRIBUTING.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+
+commit 21834acaa7541629e45340fa94a37e64276ceed6
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 15:09:39 2025 +0100
+
+    Afegir readme y license
+
+ LICENSE.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit a3a0411c2f23e94aaee9fda58f037fc77b388df4
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 15:02:20 2025 +0100
+
+    Image in readme
+
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit 5ad03f8647e8b933f72fd38504c3e9178467a75e
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 15:01:14 2025 +0100
+
+    Images
+
+ images/logo.png | Bin 0 -> 1994 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 115aefe006fe166145c418eb627d4cb6fe06ab19
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 14:59:32 2025 +0100
+
+    Archivo md
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 1bfdd6c77d449c569b376a00cc2f8030d420c74d
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 14:58:05 2025 +0100
+
+    Add Readme
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 88a33476e199390095137bfe0d3f3325085a86c5
+Author: Alfredo <39448625z@iespoblenou.org>
+Date:   Wed Nov 26 14:57:21 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
